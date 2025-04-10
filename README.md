@@ -1,4 +1,4 @@
-# Anonymous Homework Submission Protocol
+# SafeSubmit
 
 This project implements a **secure and anonymous communication protocol** that allows students to submit homework to an instructor without revealing their identities, while ensuring only legitimate students can submit and the instructor can prevent abuse (e.g., duplicate or invalid submissions).
 
