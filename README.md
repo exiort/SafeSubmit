@@ -145,3 +145,9 @@ Run the simulation by specifying how many students it will run for in simulation
 ```bash
 $python simulation.py [NumberOfStudents]
 ```
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. Copyright (c) 2026 Buğrahan İmal. You are free to use, copy, modify, merge, publish, and distribute this software as per the license conditions.
